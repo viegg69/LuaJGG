@@ -31,14 +31,6 @@ LuaJGG compiles Lua source code into bytecode using a robust parser, then execut
 - Lua version 5.3 or later.
 - Ensure that all supporting modules (`opcodes`, `lex`, `code`, etc.) are included in the project directory.
 
-### Setup
-
-1. Clone or download the project source code.
-2. Run the project using the command:
-   ```
-   lua main.lua <source_file.lua>
-   ```
-   where `main.lua` is the entry point for the project (adjust according to your actual project structure).
 
 ## Usage
 
