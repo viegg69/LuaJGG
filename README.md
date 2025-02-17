@@ -71,5 +71,4 @@ Contributions are welcome! If you have suggestions for improvements, encounter b
 
 ## License
 
-This project is released under the MIT License (or your chosen license).
-
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
